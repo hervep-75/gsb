@@ -1,6 +1,5 @@
-# gsb
- appli GsbMVC
-
+# gsb - appli GsbMVC
+ ---
 Déposer le site dans le répertoire par défaut des pages Web.
 
 Créer et peupler la base de données située dans le dossier "BDD".
