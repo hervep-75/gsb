@@ -8,4 +8,4 @@ Modifier la châine de connexion afin de la rendre compatible avec votre infrast
 
 Lancer l'application afoin de vérifier son bon fonctionnement.
 
-Lancer des tests de "pentesting" afin de la rendre compatible avec une sécurité optimale et éviter l'utilisation des failles existantes el cas échéant.
+Lancer des tests de "pentesting" afin de la rendre compatible avec une sécurité optimale et éviter l'utilisation des failles existantes le cas échéant.
